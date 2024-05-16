@@ -7,88 +7,52 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+50k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- 📚 Estudiante de segundo año de la carrera Desarrollo de Software.
+- 🔭 Actualmente estoy trabajando en proyectos stack mern.
+- 🌱 Aprendiendo Java orientado a backend.
+- 💬 Pregúntame sobre desarrollo web, Java, JavaScript, o cualquier otra cosa relacionada con tecnología.
+- 📫 Puedes contactarme a través de [correo electrónico](mailto:cristhiansosazurita@gmail.com) o [LinkedIn](https://www.linkedin.com/in/cristhian-rodrigo-sosa-zurita/).
 <br>
 
-## Proyectos *bombitas*
+## Proyectos destacados
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Barberia Alura</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://barberiaalura-latam.netlify.app" target="_blank"><img src="https://i.imgur.com/4P5gYZO.png" width="400" alt="Barberia Alura"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/CristhianSZ/Barberia-Alura-Curso-Oracle target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
+
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Proyecto desarrollado como parte del curso de HTML y CSS ofrecido por Oracle + Latam. Diseñada con el objetivo de representar una experiencia virtual de la barbería, esta página web ofrece a los visitantes una visión completa de los servicios, estilos y ambiente que ofrece Alura Latam..</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Medical Rolling</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://frontend-medical-rolling.vercel.app/" target="_blank"><img src="https://i.imgur.com/4tqhG4T.png" width="400" alt="Medical Rolling"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/CristhianSZ/Frontend-Medical_Rolling" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO%20FRONTEND-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+<a href="https://github.com/CristhianSZ/Backend-Medical_Rolling" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO%20BACKEND-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+
+</p>Proyecto colaborativo que ha desarrollado una plataforma médica con el stack MERN (MongoDB, Express.js, React.js y Node.js), alojada en Vercel. Ofrecemos una experiencia fluida y segura para pacientes y profesionales de la salud. Con funciones como la gestión de perfiles y la programación de citas, nuestro objetivo es mejorar la accesibilidad y calidad de los servicios médicos.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
 <br>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>       
-
-<td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
+                                                                                     
 </td>  
 </table>                                                                                 
 </div>
