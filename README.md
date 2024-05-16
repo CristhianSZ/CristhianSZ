@@ -22,7 +22,7 @@
 <div align="center">
 <a href="https://barberiaalura-latam.netlify.app" target="_blank"><img src="https://i.imgur.com/4P5gYZO.png" width="400" alt="Barberia Alura"></a>
 <p>
-<a href="https://github.com/CristhianSZ/Barberia-Alura-Curso-Oracle target="_blank">
+<a href="https://github.com/CristhianSZ/Barberia-Alura-Curso-Oracle" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
