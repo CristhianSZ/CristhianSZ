@@ -10,7 +10,7 @@
 - 📚 Estudiante de segundo año de la carrera Desarrollo de Software.
 - 🔭 Actualmente estoy trabajando en proyectos stack mern.
 - 🌱 Aprendiendo Java orientado a backend.
-- 💬 Pregúntame sobre desarrollo web, Java, JavaScript, o cualquier otra cosa relacionada con tecnología.
+- 💬 Pregúntame sobre desarrollo web, Java, JavaScript.
 - 📫 Puedes contactarme a través de [correo electrónico](mailto:cristhiansosazurita@gmail.com) o [LinkedIn](https://www.linkedin.com/in/cristhian-rodrigo-sosa-zurita/).
 <br>
 
@@ -58,11 +58,4 @@
 </div>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/CristhianSZ">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
