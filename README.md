@@ -7,7 +7,7 @@
 
 ## Sobre mi
 
-- 📚 Estudiante de segundo año de la carrera Desarrollo de Software.
+- 📚 Estudiante de tercer año de la carrera Desarrollo de Software.
 - 🔭 Actualmente estoy trabajando en proyectos stack mern.
 - 🌱 Aprendiendo Java orientado a backend.
 - 💬 Pregúntame sobre desarrollo web, Java, JavaScript.
