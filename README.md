@@ -8,9 +8,9 @@
 ## Sobre mi
 
 - 📚 Estudiante de tercer año de la carrera Desarrollo de Software.
-- 🔭 Actualmente estoy trabajando en proyectos stack mern.
-- 🌱 Aprendiendo Java orientado a backend.
-- 💬 Pregúntame sobre desarrollo web, Java, JavaScript.
+- 🔭 Actualmente estoy trabajando en proyectos PHP con wordpress.
+- 🌱 Aprendiendo PHP testing.
+- 💬 Pregúntame sobre desarrollo web, PHP, JavaScript.
 - 📫 Puedes contactarme a través de [correo electrónico](mailto:cristhiansosazurita@gmail.com) o [LinkedIn](https://www.linkedin.com/in/cristhian-rodrigo-sosa-zurita/).
 <br>
 
